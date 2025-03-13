@@ -10,7 +10,6 @@ I’m a passionate blockchain and full-stack developer on a mission to build imp
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CthollyNotaSeniorious&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CthollyNotaSeniorious&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CthollyNotaSeniorious&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![ChthollyNotaSeniorious Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ctholly&theme=ayu-mirage&layout=compact)](https://github.com/ChthollyNotaSeniorious/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
